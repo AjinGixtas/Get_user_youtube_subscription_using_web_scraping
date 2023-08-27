@@ -10,7 +10,7 @@
   
   *Step 4: Right clicking on an empty place on the page and click on inspect.
   
-  *Step 5: The developer console of your browser should appear now. In the "Inspector", look for a the string "<body>".
+  *Step 5: The developer console of your browser should appear now. In the "Inspector", look for a the string <body>.
   
    (NOTE: Due to Youtube's website constantly changing, the string might have some stuff in between "y" and ">" such as dir="ltr", rounded-container="", modern-dialog="", etc...).
    
